@@ -14,9 +14,9 @@
   background-repeat: no-repeat; /* Opcional: Evita que la imagen se repita */
 }
 
-.img-landing-realestate {
+.img-landing-realstate {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("../img/landing/realestate.jpg");
+    url("../img/landing/realstate.jpg");
   background-size: cover;
   background-position: center; /* Opcional: Centra la imagen si el contenedor es más grande que la imagen */
   background-repeat: no-repeat; /* Opcional: Evita que la imagen se repita */
