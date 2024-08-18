@@ -1,0 +1,23 @@
+.img-landing-broker {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../img/landing/broker.jpg");
+  background-size: cover;
+  background-position: center; /* Opcional: Centra la imagen si el contenedor es más grande que la imagen */
+  background-repeat: no-repeat; /* Opcional: Evita que la imagen se repita */
+}
+
+.img-landing-owner {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../img/landing/owner.jpg");
+  background-size: cover;
+  background-position: center; /* Opcional: Centra la imagen si el contenedor es más grande que la imagen */
+  background-repeat: no-repeat; /* Opcional: Evita que la imagen se repita */
+}
+
+.img-landing-realestate {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../img/landing/realestate.jpg");
+  background-size: cover;
+  background-position: center; /* Opcional: Centra la imagen si el contenedor es más grande que la imagen */
+  background-repeat: no-repeat; /* Opcional: Evita que la imagen se repita */
+}
